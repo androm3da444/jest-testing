@@ -1,0 +1,22 @@
+{
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/androm3da444/jest-testing.git"
+  },
+  "author": "drogon9",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/androm3da444/jest-testing/issues"
+  },
+  "homepage": "https://github.com/androm3da444/jest-testing#readme",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
